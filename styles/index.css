@@ -1,0 +1,58 @@
+
+.remark-slide-content ul,
+.remark-slide-content ol,
+.remark-slide-content p,
+.remark-slide-content div,
+.remark-slide-content blockquote
+.remark-slide-content img
+ {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.remark-slide-content li > ul,
+.remark-slide-content li > ol,
+.remark-slide-content code div {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.remark-slide-content ul {
+  list-style: disc;
+} 
+
+.remark-slide-content ol {
+  list-style: decimal;
+} 
+
+.remark-slide-content ul,
+.remark-slide-content ol {
+  margin-left: 1rem;
+  padding-left: 1rem;
+}
+
+.remark-slide-content a {
+  text-decoration: underline;
+}
+
+.remark-slide-content code {
+  color: #6b7280; /* coolGray[500] */
+  /*color: #374151; [> coolGray[700] <]*/
+}
+
+.remark-slide-content blockquote {
+  border-left: 8px solid lightgray;
+  padding-left: 1rem;
+}
+
+.coolGray-50  { color: #f9fafb; }
+.coolGray-100 { color: #f3f4f6; }
+.coolGray-200 { color: #e5e7eb; }
+.coolGray-300 { color: #d1d5db; }
+.coolGray-400 { color: #9ca3af; }
+.coolGray-500 { color: #6b7280; }
+.coolGray-600 { color: #4b5563; }
+.coolGray-700 { color: #374151; }
+.coolGray-800 { color: #1f2937; }
+.coolGray-900 { color: #111827; }
+
+
