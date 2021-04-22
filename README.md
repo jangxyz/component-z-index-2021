@@ -107,7 +107,7 @@ z-index 검색하면 따라나오는 "stacking context"...
 * "...."
 
 
-제일 많이 나오는 말: .underline[ “안 될 때는 `position: element;` 를 추가하세요.” ]
+제일 많이 나오는 말: *“안 될 때는 `position: element;` 를 추가하세요.”*
 
 
 
@@ -267,10 +267,10 @@ purist 라면 z-index 없는 세상을 꿈꿔 볼 수 있고,
 ![background](./images/joshwcomeau-bg.png)
 
 
-- .inline-block.w-8[![](https://www.joshwcomeau.com/_next/static/media/favicon-dd02c73c991090257b7c2ddbb1255af4.png?v=4)] https://www.joshwcomeau.com/css/stacking-contexts/ (20 min.)
-- .inline-block.w-8[![](https://coder-coder.com/wp-content/uploads/2019/05/cropped-coder-coder-favicon-purple-32x32.png)] https://coder-coder.com/z-index-isnt-working/ (20 min.)
-- .inline-block.w-8[![](https://ishadeed.com/assets/favicon-32x32.png)] https://ishadeed.com/article/understanding-z-index/ (10 min.)
+- https://www.joshwcomeau.com/css/stacking-contexts/ (20 min.)
+- https://coder-coder.com/z-index-isnt-working/ (20 min.)
+- https://ishadeed.com/article/understanding-z-index/ (10 min.)
  
 참고 문헌(레퍼런스):
-* .inline-block.w-8[![](https://developer.mozilla.org/favicon57.png)] https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context#the_stacking_context
+* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context#the_stacking_context
 
